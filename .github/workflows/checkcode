@@ -1,2 +1,0 @@
-- name: C/C++ Linter
-  uses: cpp-linter/cpp-linter-action@v2.6.0
