@@ -25,7 +25,6 @@ If applicable, add screenshots to help explain your problem.
 
 **OS (please complete the following information):**
  - OS Name and Version: 
- - Java JDK Version: 
 
 **Additional context**
 Add any other context about the problem here.
