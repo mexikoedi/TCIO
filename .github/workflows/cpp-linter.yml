@@ -5,6 +5,11 @@ on: push
 jobs:
   cpp-linter:
     runs-on: ubuntu-latest
+
+    # GitHub token permissions
+    permissions:
+      contents: read
+
     steps:
       - uses: actions/checkout@v6.0.0
       - uses: cpp-linter/cpp-linter-action@v2
