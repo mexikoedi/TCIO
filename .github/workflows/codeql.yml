@@ -12,6 +12,7 @@ jobs:
   analyze:
     name: Analyze (${{ matrix.language }})
     runs-on: ubuntu-latest
+    # GitHub token permissions
     permissions:
       security-events: write
       packages: read
