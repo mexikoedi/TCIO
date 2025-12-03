@@ -11,7 +11,7 @@ jobs:
       contents: read
 
     steps:
-      - uses: actions/checkout@v6.0.0
+      - uses: actions/checkout@v6.0.1
       - uses: cpp-linter/cpp-linter-action@v2
         id: linter
         env:
