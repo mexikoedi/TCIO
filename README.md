@@ -10,6 +10,6 @@ Extract the downloaded zip folder and then open the program by opening the .exe 
 
 Feel free to add a pull request or an issue. I might learn something from it because I am still learning.
 
-© 2023-2025 mexikoedi 
+© 2023-2026 mexikoedi 
 
 All rights reserved.
