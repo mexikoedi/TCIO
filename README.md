@@ -10,7 +10,7 @@ It's like a very simple math quiz with error/input handling and many prints to t
 You can download it if you select the green button named "Code" then "Download ZIP" or download the ZIP file over the releases tab. <br>
 Extract the downloaded ZIP file and then open the program by opening the .exe file. <br>
 
-Feel free to add a pull request or an issue. I might learn something from it because I am still learning.
+Feel free to add pull requests or issues because I am still learning.
 
 © 2023-2026 mexikoedi 
 
